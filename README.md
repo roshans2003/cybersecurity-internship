@@ -85,7 +85,7 @@ pip install pyqt5 requests beautifulsoup4 paramiko pycryptodome
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This toolkit is for **educational and ethical testing purposes only**. Do not use against systems without **explicit permission**. Unauthorized scanning or brute-forcing is illegal and unethical.
 
@@ -94,7 +94,7 @@ This toolkit is for **educational and ethical testing purposes only**. Do not us
 ## Author
 
 Developed by **Muhammad Roshan**
-🔗 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/muhammad-roshan-s/)) | 🛡️ MCA Cybersecurity Enthusiast
+🔗 [LinkedIn]([https://www.linkedin.com/in/muhammad-roshan-s/]) | 🛡️ MCA Cybersecurity Enthusiast
 
 ---
 
