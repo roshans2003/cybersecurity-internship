@@ -91,14 +91,14 @@ This toolkit is for **educational and ethical testing purposes only**. Do not us
 
 ---
 
-## 🧠 Author
+## Author
 
 Developed by **Muhammad Roshan**
-🔗 [LinkedIn](https://www.linkedin.com/) | 🛡️ MCA Cybersecurity Enthusiast
+🔗 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/muhammad-roshan-s/)) | 🛡️ MCA Cybersecurity Enthusiast
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 .
@@ -112,7 +112,7 @@ Developed by **Muhammad Roshan**
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 * Add reporting/export feature (PDF/CSV logs)
 * GUI integration for all tools into a single dashboard
