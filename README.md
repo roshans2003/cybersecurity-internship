@@ -94,7 +94,7 @@ This toolkit is for **educational and ethical testing purposes only**. Do not us
 ## Author
 
 Developed by **Muhammad Roshan**
-🔗 [LinkedIn]([https://www.linkedin.com/in/muhammad-roshan-s/]) | 🛡️ MCA Cybersecurity Enthusiast
+[LinkedIn](https://www.linkedin.com/in/muhammad-roshan-s/)  | 🛡️ MCA | Cybersecurity Enthusiast
 
 ---
 
